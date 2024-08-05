@@ -24,16 +24,16 @@ def test_affordability(monthly_income, car_payment):
 
 # Test case 1: Affordable car
 print("Test Case 1: Affordable car")
-test_affordability_calculator(5000, 400)
+test_affordability(5000, 400)
 
 print("\n" + "=" * 40 + "\n")
 
 # Test case 2: Unaffordable car
 print("Test Case 2: Unaffordable car")
-test_affordability_calculator(3000, 500)
+test_affordability(3000, 500)
 
 print("\n" + "=" * 40 + "\n")
 
 # Test case 3: Edge case (exactly 10% of income)
 print("Test Case 3: Edge case (exactly 10% of income)")
-test_affordability_calculator(4000, 400)
+test_affordability(4000, 400)
