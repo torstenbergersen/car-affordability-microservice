@@ -32,7 +32,7 @@ This microservice calculates the affordability of a car based on the user's mont
 1. **Start the Car Affordability Calculator microservice:**
 
    ```bash
-   python affordability_microservice.py
+   python car_affordability.py
    ```
 
 2. The service will start and display the message:
