@@ -106,5 +106,4 @@ print("Percentage of Income:", response["percentage"])
 
 ## UML Sequence Diagram
 
-Below is a UML sequence diagram illustrating the interaction between a client and the Car Affordability Calculator Microservice:
-![Affordability diagram](uml.png)
+![Affordability diagram](UML.png)
